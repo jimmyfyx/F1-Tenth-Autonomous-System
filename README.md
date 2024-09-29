@@ -91,6 +91,6 @@ TBD
 - Jiankun Yang
 
 ## Acknowledgements
-- Special thanks to all the ECE484 course staff for guidance
+- Special thanks to all the ECE484 course staff in Spring 2024 for guidance
 - Resources from the F1-Tenth community
 
