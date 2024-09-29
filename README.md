@@ -31,7 +31,7 @@ The F1-Tenth platform offers a hands-on opportunity to explore and implement sol
 
 
 ## System Architecture
-![System Architecture Diagram](block_diagram.png)
+![System Architecture Diagram](figures/block_diagram.png)
 
 The architecture of this project is divided into the following modules:
 1. **Perception**: Processe sensor data (e.g., LiDAR, camera) to identify lanes and obstacles
